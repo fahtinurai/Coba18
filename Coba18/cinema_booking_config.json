@@ -1,0 +1,9 @@
+﻿{
+  "lang": "en",
+  "threshold": 3,
+  "low_fee": 10000,
+  "high_fee": 20000,
+  "seating": [ "Regular", "VIP", "Couple", "Deluxe" ],
+  "confirm_en": "confirm",
+  "confirm_id": "konfirmasi"
+}

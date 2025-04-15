@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coba18")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+924a12f7dbf4e5ae761ec78d049f33736bca4ce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coba18")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coba18")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
